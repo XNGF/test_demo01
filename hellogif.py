@@ -1,7 +1,0 @@
-print("hellogit")
-print("hellogit")
-print("hellogit")
-print("hellogit")
-print("hellogit")
-print("hellogit")
-print("hellogit")

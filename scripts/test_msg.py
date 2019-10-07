@@ -20,8 +20,7 @@ class TestMessage:
 
         self.page.new_msg.input_receiver(phone)
         self.page.new_msg.input_msg(content)
-<<<<<<< HEAD:scripts/test_msg.py
-<<<<<<< HEAD:scripts/test_msg.py
+
         self.page.new_msg.click_send()
 =======
         self.page.new_msg.click_send()
