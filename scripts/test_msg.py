@@ -20,4 +20,8 @@ class TestMessage:
 
         self.page.new_msg.input_receiver(phone)
         self.page.new_msg.input_msg(content)
+<<<<<<< HEAD:scripts/test_msg.py
         self.page.new_msg.click_send()
+=======
+        self.page.new_msg.click_send()
+>>>>>>> 21db7bcc05765e37e3f62d7b2bf0f5ecf4c32cff:11-PO-msg/scripts/test_msg.py
